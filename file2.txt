@@ -1,1 +1,12 @@
-fgvsdv
+once again on file 2 for tg1
+
+we are to test:
+
+- create master_tg1 and development_tg1 branches
+- get the code from master_tg1 to local
+- make changes
+- commit changes from local to development_tg1
+- pull request to move from development_tg1 to master_tg1
+- tag revision in master_tg1 as version_1.1
+- get diffs of changes from master_tg1 original to version_1.1 to create deployment pkg
+- create branches for next project: master_tg2 and development_tg2
