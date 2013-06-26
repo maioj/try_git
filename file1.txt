@@ -1,1 +1,3 @@
 here is a sample file 1 for the tg1 project
+
+t1: test all 4 files changed

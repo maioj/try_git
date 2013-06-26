@@ -10,3 +10,6 @@ we are to test:
 - tag revision in master_tg1 as version_1.1
 - get diffs of changes from master_tg1 original to version_1.1 to create deployment pkg
 - create branches for next project: master_tg2 and development_tg2
+
+
+t1: test all 4 files changed
