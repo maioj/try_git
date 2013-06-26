@@ -1,3 +1,5 @@
 here is a sample file 1 for the tg1 project
 
 t1: test all 4 files changed
+
+t2: test - change all 4 files, but only commit 1 and 3
