@@ -3,3 +3,5 @@ this is file3
 with dev_tg1 changes
 
 t1: test all 4 files changed
+
+t2: test - change all 4 files, but only commit 1 and 3
